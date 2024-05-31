@@ -16,5 +16,4 @@ A module is a file containing Python definitions and statements.
 
 
 Author of this repository is 
-Antoinette Philipina Mensah
-philipinamensah19@gmail.com
+andyaw306@gmail.com
